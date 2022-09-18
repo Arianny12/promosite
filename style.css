@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Handlee&display=swap');
+
+body {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(background.jpeg);
+  font-family: 'Handlee', cursive;
+  font-weight: bold;
+  text-align: center;
+
+}
+a:link {
+
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+p {font-size: 30px}
+
+
+
+
+#sizeofh1 {
+  font-family: 'Comforter', cursive;
+  font-size: 45px;
+
+}
